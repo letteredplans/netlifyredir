@@ -1,0 +1,23 @@
+[[redirects]]
+  from = "https://letteredplans.netlify.app/"
+  to = "https://letteredplans.earne.link"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://letteredplans.netlify.app/*"
+  to = "https://letteredplans.earne.link/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://lp.earnestma.xyz/"
+  to = "https://letteredplans.earne.link"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://lp.earnestma.xyz/*"
+  to = "https://letteredplans.earne.link/:splat"
+  status = 301
+  force = true
